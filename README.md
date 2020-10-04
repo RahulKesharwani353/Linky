@@ -11,7 +11,11 @@ It links the `NGO`, to different people who want help for themselves or others.
 ## Working steps:
 1. People request the help they need for themselves or some other poor people from NGO.
 2. NGO's contact the person to provide help by the means of app.
-3. This way app links the 'needy and poor people'  with the 'NGO' by the means of other peoples in between. 
+3. This way app links the `needy and poor people`  with the `NGO` by the means of other peoples in between.
+ ![Image 1](images/3.jpg)
+ ![Image 2](images/4.jpg)
+ ![Image 3](images/2.jpg)
+ ![Image 4](images/1.jpg)
 
 
 ## Tools and Technologies used :computer:
