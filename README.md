@@ -12,10 +12,10 @@ It links the `NGO`, to different people who want help for themselves or others.
 1. People request the help they need for themselves or some other poor people from NGO.
 2. NGO's contact the person to provide help by the means of app.
 3. This way app links the `needy and poor people`  with the `NGO` by the means of other peoples in between.
- ![Image 1](images/3.jpg=400x600)
- ![Image 2](images/4.jpg=400x600)
- ![Image 3](images/2.jpg=400x600)
- ![Image 4](images/1.jpg=400x600)
+ ![Image 1](images/3.jpg=400*600)
+ ![Image 2](images/4.jpg=400*600)
+ ![Image 3](images/2.jpg=400*600)
+ ![Image 4](images/1.jpg=400*600)
 
 
 ## Tools and Technologies used :computer:
