@@ -128,13 +128,14 @@
 
     <Button
         android:id="@+id/addProduct_btn"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="5dp"
+        android:padding="10dp"
         android:layout_marginTop="30dp"
         android:textAllCaps="true"
         android:text="Request Help..!!"
-        android:background="#FFEB3B"
+        android:fontFamily="@font/baloo"
+        android:background="@drawable/rounded_corner_1"
         android:layout_gravity="center"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"

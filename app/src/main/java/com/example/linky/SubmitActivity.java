@@ -79,7 +79,7 @@ public class SubmitActivity extends AppCompatActivity {
 
         HashMap<String, Object> profileMap = new HashMap<>();
         profileMap.put("ReqId", randomRequestId);
-        profileMap.put("name", name.getText().toString());
+        profileMap.put("nameOfApplicant", name.getText().toString());
         profileMap.put("email", email.getText().toString());
         profileMap.put("phone", phnNo.getText().toString());
         profileMap.put("location", location.getText().toString());
@@ -93,6 +93,8 @@ public class SubmitActivity extends AppCompatActivity {
                     Toast.makeText(SubmitActivity.this, "New Request Added Successfully..!!!", Toast.LENGTH_SHORT).show();
 
                     progressDialog.dismiss();
+                    startActivity(new Intent(SubmitActivity.this,Dashboard.class));
+                    finishAffinity();
                 }
 
             }
