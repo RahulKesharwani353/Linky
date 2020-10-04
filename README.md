@@ -1,6 +1,5 @@
 ![Image of logo-Linky](images/logo.png)
-# Linky :heart:
-**For helping people**
+# Linky :heart: *For helping people*
 As the name suggest **Linky** is an app which `connects` or links two or more people or organisation. :family:
 
 ## But what is the purpose of linking?
