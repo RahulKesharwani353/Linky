@@ -4,7 +4,7 @@ As the name suggset **Linky** is an app which connects or links two people or or
 
 ## But what is the purpose of linking?
 It links the people of `NGO`, different helping organisation who wants help, from those who want to help them.
-![Image of NGO](images/NGO.png) + ![Image of logo-Linky](images/people.png)
+![Image of NGO](images/NGO.gif) + ![Image of logo-Linky](images/people.jpg)
 
 ## Working steps:
 1. Ngo requests the supplies they needed for help or The people want to help submit the details of the supplies they have.
