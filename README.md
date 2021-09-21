@@ -22,6 +22,7 @@ It links the `NGO`, to different people who want help for themselves or others.
 1. Programming language-`JAVA`
 2. Data base-`Firebase`
 3. IDE- `Android studio`
+4. Authentication-`SAWO Labs`
 
 ### Contributors
 1. `Rahul Kesharwani` (rahulkesharwani353@gmail.com)
